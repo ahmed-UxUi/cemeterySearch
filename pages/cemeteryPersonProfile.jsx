@@ -62,7 +62,7 @@ export default function State() {
                                 <Image className="w-6 h-6" src="/cemeteryProfile.jpg" width="300" height="203" alt="cyber fraud" />
                             </div>
 
-                            <div className="content-title mb-[29px]">
+                            <div className="content-title mb-[30px]">
                                 <h3 className="text-[26px] text-black font-poppins font-semibold">Memorial</h3>
                             </div>
 
